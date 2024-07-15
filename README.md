@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto Final: Gestão de Consultas Médicas </h1>
 
-Este repositório contém um projeto desenvolvido em conjunto com LeticiaB24 e EliasXi como parte das atividades do curso Back-End do SENAI. O projeto envolve a criação de um banco de dados desenvolvido no BRModelo e no MySQL para gestão de consultas médicas. Seu objetivo é armazenar informações de consultas, médicos e pacientes. O projeto utiliza o framework Spring Boot para implementar um aplicativo Java.
+Este repositório contém um projeto desenvolvido em conjunto com LeticiaB24, EliasXi e Victorsszx como parte das atividades do curso Back-End do SENAI. O projeto envolve a criação de um banco de dados desenvolvido no BRModelo e no MySQL para gestão de consultas médicas. Seu objetivo é armazenar informações de consultas, médicos e pacientes. O projeto utiliza o framework Spring Boot para implementar um aplicativo Java.
 
 
 ## Modelagem do Banco de Dados
