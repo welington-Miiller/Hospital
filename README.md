@@ -9,3 +9,6 @@ Este repositório contém um projeto desenvolvido em conjunto com LeticiaB24, El
 
 ### Banco de Dados Lógico
 ![Projeto Final - Modelo Lógico](https://github.com/user-attachments/assets/2387bf90-8b08-4f87-8024-854e8b582995)
+
+### Apresentação do Projeto
+[Projeto Final - Gestão de Consultas Médicas.pdf](https://github.com/user-attachments/files/16249118/Projeto.Final.-.Gestao.de.Consultas.Medicas.pdf)
